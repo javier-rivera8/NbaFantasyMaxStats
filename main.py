@@ -87,4 +87,3 @@ for index in range(len(statName)):
   position += 140
 
 my_image.save("results/result.jpg")
-

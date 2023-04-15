@@ -21,11 +21,5 @@ class Team:
   def getStat(self, key):
     return self.stats[key]
 
-# washulfio = Team("Washulfios", "(12-7-1, 3rd in West Division)")
-
-# print(washulfio.getName())
-# print(washulfio.getPosition())
-# washulfio.setStat("FG%", 0.500)
-# washulfio.getStats()
 
 
