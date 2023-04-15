@@ -1,0 +1,213 @@
+
+San Diego Vegas
+(14-5-1, 1st in East Division)
+2-6-0
+
+Indiana Naptown
+(15-4-1, 1st in West Division)
+6-2-0
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+VEGA
+.5106
+.7500
+57
+281
+155
+41
+25
+686
+INDy
+.5082
+.7528
+80
+217
+228
+46
+34
+770
+BOX SCORE
+CHAMPIONSHIP MATCHUP
+Winner's Consolation Ladder
+
+Zzzz A mimil...casi
+(12-6-2, 2nd in West Division)
+0-8-0
+
+Hormigueros Oso Hormigueros
+(14-5-1, 2nd in East Division)
+8-0-0
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+PUTO
+.0000
+.0000
+0
+0
+0
+0
+0
+0
+OHDH
+.5709
+.7801
+66
+284
+207
+40
+33
+748
+BOX SCORE
+
+Los Angeles Demons
+(11-9-0, 5th in West Division)
+4-4-0
+
+Washington Washulfios
+(12-7-1, 3rd in West Division)
+4-4-0
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+MID
+.4549
+.8163
+59
+200
+124
+46
+16
+663
+WASh
+.4558
+.8020
+51
+225
+129
+34
+30
+514
+BOX SCORE
+
+Aibonito goats
+(8-11-1, 3rd in East Division)
+2-6-0
+
+Pr Cabras locas
+(11-6-3, 4th in West Division)
+6-2-0
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+HOLa
+.5440
+.8931
+42
+151
+94
+37
+15
+567
+CL
+.4848
+.7557
+44
+175
+129
+39
+16
+591
+BOX SCORE
+Consolation Ladder
+
+El Prado Los PUPI
+(4-15-1, 5th in East Division)
+5-2-1
+
+Konoha Los mapaches
+(6-14-0, 4th in East Division)
+2-5-1
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+PUPi
+.4767
+.8106
+44
+125
+74
+18
+17
+479
+KOH
+.5052
+.8627
+40
+125
+64
+17
+10
+374
+BOX SCORE
+
+Skull town Los Kabadis
+(2-16-2, 6th in East Division)
+0-7-1
+
+Alaska Los Talibanes
+(4-15-1, 6th in West Division)
+7-0-1
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+KBDI
+.4667
+.6923
+26
+134
+74
+15
+11
+328
+YALa
+.5190
+.7143
+27
+150
+74
+21
+16
+382
+BOX SCORE

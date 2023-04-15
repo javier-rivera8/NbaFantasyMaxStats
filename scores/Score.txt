@@ -1,0 +1,210 @@
+
+Washington Washulfios
+(12-7-1, 3rd in West Division)
+3-5-0
+
+Zzzz A mimil...casi
+(12-6-2, 2nd in West Division)
+5-3-0
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+WASh
+.4957
+.7982
+41
+204
+131
+43
+17
+476
+PUTO
+.4646
+.8088
+57
+241
+122
+40
+31
+627
+BOX SCORE
+
+San Diego Vegas
+(14-5-1, 1st in East Division)
+7-1-0
+
+El Prado Los PUPI
+(4-15-1, 5th in East Division)
+1-7-0
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+VEGA
+.4683
+.7851
+71
+217
+101
+35
+34
+594
+PUPi
+.4566
+.7537
+42
+185
+103
+25
+23
+501
+BOX SCORE
+
+Konoha Los mapaches
+(6-14-0, 4th in East Division)
+5-2-1
+
+Aibonito goats
+(8-11-1, 3rd in East Division)
+2-5-1
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+KOH
+.5160
+.8235
+51
+223
+134
+35
+26
+601
+HOLa
+.4717
+.8313
+55
+149
+125
+35
+18
+474
+BOX SCORE
+
+Hormigueros Oso Hormigueros
+(14-5-1, 2nd in East Division)
+4-3-1
+
+Skull town Los Kabadis
+(2-16-2, 6th in East Division)
+3-4-1
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+OHDH
+.4899
+.7231
+51
+183
+142
+31
+14
+581
+KBDI
+.5012
+.7404
+43
+173
+80
+31
+23
+546
+BOX SCORE
+
+Alaska Los Talibanes
+(4-15-1, 6th in West Division)
+3-5-0
+
+Los Angeles Demons
+(11-9-0, 5th in West Division)
+5-3-0
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+YALa
+.4693
+.6500
+35
+167
+100
+14
+25
+377
+MID
+.4855
+.8462
+59
+161
+77
+27
+21
+559
+BOX SCORE
+
+Pr Cabras locas
+(11-6-3, 4th in West Division)
+4-4-0
+
+Indiana Naptown
+(15-4-1, 1st in West Division)
+4-4-0
+FG%
+FT%
+3PM
+REB
+AST
+STL
+BLK
+PTS
+CL
+.4422
+.8024
+63
+197
+135
+44
+17
+641
+INDy
+.3784
+.8733
+57
+232
+182
+29
+22
+552
+BOX SCORE
