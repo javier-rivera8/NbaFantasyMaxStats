@@ -28,4 +28,6 @@ It then iterates through each statistical category, adding the corresponding tea
 # Saving Image:
 
 The final image is saved as "results/result.jpg".
-![result](https://github.com/javier-rivera8/NbaFantasyMaxStats/assets/112108705/66f2bbf3-c7e3-401b-931f-7ae9608456e8)
+<div align="center">
+  <img src="https://github.com/javier-rivera8/NbaFantasyMaxStats/assets/112108705/66f2bbf3-c7e3-401b-931f-7ae9608456e8" alt="Fantasy Stats" width="670">
+</div>
